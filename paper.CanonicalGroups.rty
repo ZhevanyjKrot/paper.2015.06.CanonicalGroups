@@ -1,0 +1,32 @@
+%
+% maiksamp.rty 29.11.2001
+%
+\input maik.rty
+%\def\refitem#1{\relax}
+\def\A{{\mathfrak{A}}}
+\def\K{{\mathcal{K}}}
+\def\P{{\mathcal{P}}}
+\def\L{{\mathcal{L}}}
+\def\Z{{\mathbb{Z}}}
+\def\N{{\mathbb{N}}}
+\def\Q{{\mathbb{Q}}}
+\def\Th{{\mathrm{Th}}}
+\def\Tha{{\mathrm{Th}_\forall}}
+\def\The{{\mathrm{Th}_\exist}}
+\def\CG{{\mathrm{CGr}}}
+\def\ui{{\mathrm{UI}}}
+\def\JEP{{\textbf{JEP}}}
+\def\HP{{\textbf{HP}}}
+\def\AP{{\textbf{AP}}}
+\def\Dis{{\mathrm{Dis}}}
+
+\newtheorem{theorem}{Теорема}[section]
+\newtheorem{lemma}{Лемма}[section]
+\newtheorem{proposition}{Предложение}[section]
+\newtheorem{statement}{Утверждение}[section]
+\newtheorem{corollary}{Следствие}[section]
+\newtheorem{definition}{Определение}[section]
+
+\usepackage[colorinlistoftodos]{todonotes} % remove
+
+\endinput
