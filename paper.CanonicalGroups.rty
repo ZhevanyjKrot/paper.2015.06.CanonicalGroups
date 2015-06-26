@@ -3,6 +3,10 @@
 %
 \input maik.rty
 %\def\refitem#1{\relax}
+
+\usepackage[colorinlistoftodos]{todonotes} % remove
+
+
 \def\A{{\mathfrak{A}}}
 \def\K{{\mathcal{K}}}
 \def\P{{\mathcal{P}}}
@@ -26,7 +30,7 @@
 \newtheorem{statement}{Утверждение}[section]
 \newtheorem{corollary}{Следствие}[section]
 \newtheorem{definition}{Определение}[section]
+\def\proof{{\noindent{\bf Доказательство.}} }
 
-\usepackage[colorinlistoftodos]{todonotes} % remove
 
 \endinput
