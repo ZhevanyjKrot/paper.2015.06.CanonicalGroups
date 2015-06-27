@@ -9,6 +9,7 @@
 
 \def\A{{\mathfrak{A}}}
 \def\K{{\mathcal{K}}}
+\def\Kec{\mathcal{K}^{ec}}
 \def\P{{\mathcal{P}}}
 \def\L{{\mathcal{L}}}
 \def\Z{{\mathbb{Z}}}
