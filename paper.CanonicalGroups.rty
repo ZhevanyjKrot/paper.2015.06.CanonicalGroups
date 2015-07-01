@@ -5,7 +5,8 @@
 %\def\refitem#1{\relax}
 
 \usepackage[colorinlistoftodos]{todonotes} % remove
-
+%\RequirePackage[colorlinks=true,linkcolor=blue]{hyperref}
+% \usepackage{hyperref}
 
 \def\A{{\mathfrak{A}}}
 \def\K{{\mathcal{K}}}
@@ -23,6 +24,7 @@
 \def\JEP{{\textbf{JEP}}}
 \def\HP{{\textbf{HP}}}
 \def\AP{{\textbf{AP}}}
+\def\AAP{{\textbf{AAP}}}
 \def\Dis{{\mathrm{Dis}}}
 
 \newtheorem{theorem}{Теорема}[section]
