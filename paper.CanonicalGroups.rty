@@ -27,12 +27,13 @@
 \def\AAP{{\textbf{AAP}}}
 \def\Dis{{\mathrm{Dis}}}
 
-\newtheorem{theorem}{Теорема}[section]
-\newtheorem{lemma}{Лемма}[section]
-\newtheorem{proposition}{Предложение}[section]
-\newtheorem{statement}{Утверждение}[section]
-\newtheorem{corollary}{Следствие}[section]
-\newtheorem{definition}{Определение}[section]
+% \newtheorem{theorem}{Теорема}[section]
+\newtheorem{theorem}{Теорема}
+\newtheorem{lemma}{Лемма}
+\newtheorem{proposition}{Предложение}
+\newtheorem{statement}{Утверждение}
+\newtheorem{corollary}{Следствие}
+\newtheorem{definition}{Определение}
 \def\proof{{\noindent{\bf Доказательство.}} }
 
 
