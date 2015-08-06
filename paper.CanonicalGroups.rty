@@ -4,9 +4,7 @@
 \input maik.rty
 %\def\refitem#1{\relax}
 
-\usepackage[colorinlistoftodos]{todonotes} % remove
-%\RequirePackage[colorlinks=true,linkcolor=blue]{hyperref}
-% \usepackage{hyperref}
+% \usepackage[colorinlistoftodos]{todonotes} % remove
 
 \def\A{{\mathfrak{A}}}
 \def\K{{\mathcal{K}}}
